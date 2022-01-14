@@ -84,3 +84,5 @@ If you manage updates for Microsoft 365 Apps with Configuration Manager, you cha
 - The Office user interface on the client device will not reflect the updated channel until a build of Office from the new channel is installed.
 
 - If you move from a channel with a newer version of Office to a channel with an older version of Office, any features that are only available in the newer version will be removed.
+
+#
